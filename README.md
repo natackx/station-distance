@@ -23,6 +23,8 @@ The Response has the following scheme:
 }
 ```
 
+A demo of the API can be found [here](https://sd.ntnb.de/docs).
+
 ## Data
 
 The csv file of all German train stations [provided](https://data.deutschebahn.com/dataset/data-haltestellen.html) by Deutsche Bahn is used as the data set.

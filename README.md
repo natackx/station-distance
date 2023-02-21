@@ -23,7 +23,6 @@ The Response has the following scheme:
 }
 ```
 
-A demo of the API can be found [here](https://sd.ntnb.de/docs).
 
 ## Data
 
